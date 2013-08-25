@@ -24,7 +24,6 @@
 
 #include "TC74_I2C.h"
 #include <inttypes.h>
-//#include "WProgram.h" 
 #include "Arduino.h"	// only support for arduino IDE >= 100
 
 #include "Wire.h"
