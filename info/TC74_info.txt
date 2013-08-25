@@ -1,0 +1,39 @@
+TC74_info.txt
+
+Part of TC74 Library V1.0
+
+Created 6 May 2011
+By Mario H
+
+https://github.com/Mario-H/TC74_I2C 
+
+
+TC74 PRODUCT IDENTIFICATION:
+Address Options:
+	ID:   Binary:	Hex:
+	A0 = 1001 000	0x48
+	A1 = 1001 001	0x49
+	A2 = 1001 010	0x4A
+	A3 = 1001 011	0x4B
+	A4 = 1001 100	0x4C
+	A5 = 1001 101	0x4D (Default address)
+	A6 = 1001 110	0x4E
+	A7 = 1001 111	0x4F
+                                                           
+Voltage:
+	3.3 = Accuracy optimized for 3.3V
+	5.0 = Accuracy optimized for 5.0V
+
+Example:
+	TC74A5-3.3	= TC74 address 0x4D	3.3V supply
+	TC74A2-5.0	= TC74 address 0x4A	5.0V supply
+
+The extensions VAT and VCTTR indicate:
+	V    = Operating Temperature -40 degr.C > TA < +125 degr.C
+	AT   = Package TO-220-5
+	CTTR = Package SOT-23-5
+
+Note that according to the datasheet both the 3.3 Volt and 5.0 Volt version of the sensors have an power supply range of 2.7V to 5.5V
+but will be most accurate when supplied with their specified voltage.
+
+See the TC74 datasheet in the info directory for more details.
