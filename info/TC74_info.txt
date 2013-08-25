@@ -2,10 +2,8 @@ TC74_info.txt
 
 Part of TC74 Library V1.0
 
-Created 6 May 2011
-By Mario H
-
-https://github.com/Mario-H/TC74_I2C 
+Created May 2011
+By Mario H		https://github.com/Mario-H/TC74_I2C 
 
 
 TC74 PRODUCT IDENTIFICATION:
