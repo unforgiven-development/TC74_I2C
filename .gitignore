@@ -1,0 +1,21 @@
+#
+# ~/.gitignore
+#
+
+# GENERAL #
+*~
+*.bak
+
+
+# Linux #
+*.o
+*.so
+*.ko
+*.lib
+*.a
+*.out
+*.bin
+*.elf
+*.hex
+*.lst
+*.map
